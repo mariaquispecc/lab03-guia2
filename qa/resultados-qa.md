@@ -21,7 +21,6 @@ RESULTADOS OBTENIDOS:
 > lab3-guia2@1.0.0 lint:fix
 > eslint src/**/*.js --fix
 
-
 D:\labo calidad\lab03-guia2\src\products.js
   14:20  error  Expected '===' and instead saw '=='  eqeqeq
 
